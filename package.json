@@ -1,0 +1,15 @@
+{
+  "name": "social-proof-section-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "Diego Ramírez",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  }
+}
